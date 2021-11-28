@@ -4,7 +4,7 @@
 - 🔨 I work mostly in Swift & Kotlin developing iOS & Android apps
 - 🌱 I’m currently learning Kotlin multiplatform
 - 💞️ I’m looking to collaborate on https://www.beerappear.com
-- 📫 How to reach me curtis.r.aaron@gmail.com
+- 📫 You can get in touch with me via - curtis.r.aaron@gmail.com
 
 <!---
 CurtisrAaron/CurtisrAaron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
